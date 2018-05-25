@@ -1,4 +1,4 @@
-# mpugach/omnicored
+# mpugach/monerod
 
 A [monerod](https://getmonero.org/resources/developer-guides/daemon-rpc.html) docker image.
 
